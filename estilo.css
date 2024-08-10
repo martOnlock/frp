@@ -127,10 +127,6 @@ header{
 
 
 
-	.menu a{
-		display: block;
-		padding: 20px;
-	}
 
 	.esconder-menu{
 		position: absolute;
